@@ -22,7 +22,7 @@ We are an ambitious project aiming to push the boundaries of gaming by seamlessl
 
 **Target Audience:**
 
-Early adopters of AR technology, individuals interested in the intersection of technology.
+Job training, early adopters of AR technology, individuals interested in the intersection of technology.
 
 **Contributing:**
 
