@@ -6,11 +6,15 @@ We are an ambitious project aiming to push the boundaries of gaming by seamlessl
 * **Blur the lines between reality:** Experience AR seamlessly blended with your real-world surroundings, creating a truly immersive and interactive environment.
 * **Unleash your imagination:** Utilize ChatGPT's creative potential to dynamically shape the game world, generate quests, and personalize your gameplay experience.
 
-**Benefits:**
-
 * **Utilising AR technology:** By leveraging ChatGPT's unique abilities, we aim to unlock a new era of AR gaming where narrative and real-world interaction intertwine in unprecedented ways.
 * **Unparalleled immersion:** Imagine having conversations with characters that feel real, solving puzzles that adapt to your choices, and exploring an AR world that responds to your actions.
 * **Empowering creativity:** Players will have the power to shape their own gameplay journey through their natural language interactions, blurring the lines between player and storyteller.
+
+**People:**
+[Arimuon](https://github.com/Arimuon)
+[Cactus Rick](https://github.com/Cactus-Rick)
+[GergoEB](https://github.com/GergoEB)
+[RJsupreme](https://github.com/RJsupreme)
 
 **Target Audience:**
 
@@ -20,10 +24,3 @@ Early adopters of AR technology, individuals interested in the intersection of t
 
 We are an closed-source project. 
 
-**License:**
-
-This project is licensed under the [Your chosen license] license. See the `LICENSE` file for details.
-
-**Stay in Touch:**
-
-We are actively developing this project and would love to hear your feedback, suggestions or if you find any issues. 
