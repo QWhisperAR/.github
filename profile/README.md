@@ -12,10 +12,10 @@ We are an ambitious project aiming to push the boundaries of gaming by seamlessl
 
 **People:**
 
-[Arimuon](https://github.com/Arimuon)
-[Cactus Rick](https://github.com/Cactus-Rick)
-[GergoEB](https://github.com/GergoEB)
-[RJsupreme](https://github.com/RJsupreme)
+- [Arimuon](https://github.com/Arimuon)
+- [GergoEB](https://github.com/GergoEB)
+- [Cactus Rick](https://github.com/Cactus-Rick)
+- [RJsupreme](https://github.com/RJsupreme)
 
 **Target Audience:**
 
