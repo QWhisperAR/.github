@@ -1,4 +1,4 @@
-# QwhisperAR #
+# QWhisperAR #
 ![Project Icon](https://avatars.githubusercontent.com/u/156684611?s=200&v=2)
 
 We are an ambitious project aiming to push the boundaries of gaming by seamlessly integrating cutting-edge augmented reality (AR) technology with the conversational power of ChatGPT, the revolutionary language model from OpenAI. Our goal is to create a truly immersive and interactive experience where players can:
