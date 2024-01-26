@@ -11,6 +11,7 @@ We are an ambitious project aiming to push the boundaries of gaming by seamlessl
 * **Empowering creativity:** Players will have the power to shape their own gameplay journey through their natural language interactions, blurring the lines between player and storyteller.
 
 **People:**
+
 [Arimuon](https://github.com/Arimuon)
 [Cactus Rick](https://github.com/Cactus-Rick)
 [GergoEB](https://github.com/GergoEB)
